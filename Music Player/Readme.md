@@ -1,5 +1,5 @@
 
-# 🎹🎹🎹Music player using linked lists and queues in C programming language🎹🎹🎹
+# 🎹 Music player using linked lists and queues in C programming language 🎹
 
 ## This program is built by applying basic Data structures
 
@@ -7,7 +7,7 @@
 - Doubly linked lists⛓️ ⛓️ 
 - Queues🫶 
 
-## It has features like
+## Features like
 
 - Creating a playlist
 - Deleting a playlist
