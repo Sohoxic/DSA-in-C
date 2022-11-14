@@ -7,7 +7,7 @@
 - Doubly linked lists⛓️ ⛓️ 
 - Queues🫶 
 
-## Features like
+## Features :
 
 - Creating a playlist
 - Deleting a playlist
